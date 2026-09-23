@@ -4,6 +4,7 @@ import MarkdownIt from 'markdown-it'
 import markdownItAttrs from "markdown-it-attrs";
 
 export default function (eleventyConfig) {
+	eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.addPassthroughCopy("css/index.css");
     eleventyConfig.addPassthroughCopy("assets/");
     	// Watch CSS files
@@ -28,7 +29,6 @@ export default function (eleventyConfig) {
 		failOnError: false
     });
 	eleventyConfig.setOutputDirectory("docs")
-	eleventyConfig.addPlugin(HtmlBasePlugin);
 
 };
 
