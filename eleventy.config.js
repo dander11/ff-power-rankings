@@ -25,8 +25,7 @@ export default function (eleventyConfig) {
     {
         widths: [60],        
 		failOnError: false
-    }
-        
-    );
+    });
+	eleventyConfig.setOutputDirectory("docs")
 
 };
