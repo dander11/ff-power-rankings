@@ -1,4 +1,5 @@
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { HtmlBasePlugin } from "@11ty/eleventy";
 import MarkdownIt from 'markdown-it'
 import markdownItAttrs from "markdown-it-attrs";
 
@@ -27,5 +28,10 @@ export default function (eleventyConfig) {
 		failOnError: false
     });
 	eleventyConfig.setOutputDirectory("docs")
+	eleventyConfig.addPlugin(HtmlBasePlugin);
 
 };
+
+export const config = {
+	pathPrefix: "/ff-power-rankings/",
+}
