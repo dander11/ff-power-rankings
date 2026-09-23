@@ -1,12 +1,17 @@
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import MarkdownIt from 'markdown-it'
+import markdownItAttrs from "markdown-it-attrs";
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css/index.css");
+    eleventyConfig.addPassthroughCopy("assets/");
     	// Watch CSS files
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
-
+	const md = new MarkdownIt()
+	md.use(markdownItAttrs);
+	eleventyConfig.setLibrary('md', md);
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
 	// Bundle <style> content and adds a {% css %} paired shortcode
 	eleventyConfig.addBundle("css", {
@@ -18,7 +23,8 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, 
     //make the image widths 72px
     {
-        widths: [60],        failOnError: false
+        widths: [60],        
+		failOnError: false
     }
         
     );
