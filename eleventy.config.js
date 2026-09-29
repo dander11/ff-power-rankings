@@ -10,7 +10,7 @@ export default function (eleventyConfig) {
     	// Watch CSS files
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.
-	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
+	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif,mp4}");
 	const md = new MarkdownIt(
 		{html: true}
 	)
