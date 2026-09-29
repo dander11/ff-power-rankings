@@ -218,7 +218,7 @@ Joe escaped the bottom with a big upset over Alan this week. They are both near 
 
 
 <div>
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="546">
+<blockquote class="reddit-embed-bq" style="height:600px" data-embed-height="546">
 <a href="https://www.reddit.com/r/nfl/comments/1wrzhet/highlight_final_sequence_between_ravens_and/">[Highlight] Final sequence between Ravens and Cowboys in Rio</a><br> by
 <a href="https://www.reddit.com/user/nfl/">u/nfl</a> in
 <a href="https://www.reddit.com/r/nfl/">nfl</a>
