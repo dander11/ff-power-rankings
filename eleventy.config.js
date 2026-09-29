@@ -6,7 +6,7 @@ import markdownItAttrs from "markdown-it-attrs";
 export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.addPassthroughCopy("css/index.css");
-    eleventyConfig.addPassthroughCopy("/assets/");
+    eleventyConfig.addPassthroughCopy("assets/");
     	// Watch CSS files
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.

@@ -216,7 +216,7 @@ Hunter losing to Steve isn't that embarrassing, only scoring 82 points and conti
 Joe escaped the bottom with a big upset over Alan this week. They are both near the bottom of the rankings but all signs pointed to Alan beating Joe until the very end, but some last second magic in the Ravens game lead to a change in fortune.
 
 <video controls width="100%" style="max-width: 600px; border-radius: 8px;">
-  <source src="./assets/ravens_and_cowboy.mp4" type="video/mp4">
+  <source src="/assets/ravens_and_cowboys.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
