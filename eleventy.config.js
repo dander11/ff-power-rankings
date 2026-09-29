@@ -11,7 +11,9 @@ export default function (eleventyConfig) {
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
-	const md = new MarkdownIt()
+	const md = new MarkdownIt(
+		{html: true}
+	)
 	md.use(markdownItAttrs);
 	eleventyConfig.setLibrary('md', md);
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
