@@ -11,7 +11,7 @@ title: POWER RANKINGS WEEK 3
 
 **Week 3 result**: Beat Knights of the Night (Hunter) 119.46-82.24
 
-**Previous ranking**: 1 –
+**Previous ranking**: 1 (–)
 
 | Stat | Value |
 | --- | --- |
@@ -32,7 +32,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Beat Lombardi's  Lad's (Robb) 139.98-89.56
 
-**Previous ranking**: 4 ▲2
+**Previous ranking**: 4 (▲2)
 
 | Stat | Value |
 | --- | --- |
@@ -53,7 +53,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Beat The Bidet Bombardier (Brian) 127.24-122.60
 
-**Previous ranking**: 5 ▲2
+**Previous ranking**: 5 (▲2)
 
 | Stat | Value |
 | --- | --- |
@@ -74,7 +74,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Beat I'm Love'n Ja'Matt Chase 5ks (Zach) 163.78-98.70
 
-**Previous ranking**: 9 ▲5
+**Previous ranking**: 9 (▲5)
 
 | Stat | Value |
 | --- | --- |
@@ -95,7 +95,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Beat BUZZ SAW COMING FOR YOU (Matthew) 111.84-78.86
 
-**Previous ranking**: 7 ▲2
+**Previous ranking**: 7 (▲2)
 
 | Stat | Value |
 | --- | --- |
@@ -116,7 +116,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Lost to GT sux (Christian) 122.60-127.24
 
-**Previous ranking**: 6 –
+**Previous ranking**: 6 (–)
 
 | Stat | Value |
 | --- | --- |
@@ -137,7 +137,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Lost to HoChi Winhers (David) 78.86-111.84
 
-**Previous ranking**: 2 ▼5
+**Previous ranking**: 2 (▼5)
 
 | Stat | Value |
 | --- | --- |
@@ -158,7 +158,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Lost to Less Intelligent Underwood (Nathan) 89.56-139.98
 
-**Previous ranking**: 3 ▼5
+**Previous ranking**: 3 (▼5)
 
 | Stat | Value |
 | --- | --- |
@@ -179,7 +179,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Lost to 5K Runner (Steven) 82.24-119.46
 
-**Previous ranking**: 8 ▼1
+**Previous ranking**: 8 (▼1)
 
 | Stat | Value |
 | --- | --- |
@@ -200,7 +200,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Beat Deport SEC Fans (Alan) 106.02-103.04
 
-**Previous ranking**: 12 ▲2
+**Previous ranking**: 12 (▲2)
 
 | Stat | Value |
 | --- | --- |
@@ -221,7 +221,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Lost to I'm so JamesCooked (joe) 103.04-106.02
 
-**Previous ranking**: 10 ▼1
+**Previous ranking**: 10 (▼1)
 
 | Stat | Value |
 | --- | --- |
@@ -242,7 +242,7 @@ Here will be where I write about the ranking
 
 **Week 3 result**: Lost to Mike Vick Walks my Dog (Peck) 98.70-163.78
 
-**Previous ranking**: 11 ▼1
+**Previous ranking**: 11 (▼1)
 
 | Stat | Value |
 | --- | --- |
