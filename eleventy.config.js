@@ -4,14 +4,24 @@ import MarkdownIt from 'markdown-it'
 import markdownItAttrs from "markdown-it-attrs";
 
 export default function (eleventyConfig) {
+	eleventyConfig.addPairedLiquidShortcode("expander", function (content, label) {
+		return `<details class="custom-expander">
+      <summary><strong>${label}</strong></summary>
+      <div class="expander-content">
+        ${content}
+      </div>
+    </details>`;
+	});
 	eleventyConfig.addPlugin(HtmlBasePlugin);
-    eleventyConfig.addPassthroughCopy("css/index.css");
-    eleventyConfig.addPassthroughCopy("assets/");
-    	// Watch CSS files
+	eleventyConfig.addPassthroughCopy("css/index.css");
+	eleventyConfig.addPassthroughCopy("assets/");
+	// Watch CSS files
 	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
-	const md = new MarkdownIt()
+	const md = new MarkdownIt(
+		{html: true,}
+	)
 	md.use(markdownItAttrs);
 	eleventyConfig.setLibrary('md', md);
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
@@ -22,12 +32,12 @@ export default function (eleventyConfig) {
 		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
 		bundleHtmlContentFromSelector: "style",
 	});
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, 
-    //make the image widths 72px
-    {
-        widths: [60],        
-		failOnError: false
-    });
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin,
+		//make the image widths 72px
+		{
+			widths: [60],
+			failOnError: false
+		});
 	eleventyConfig.setOutputDirectory("docs")
 
 };
