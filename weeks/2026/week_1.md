@@ -24,7 +24,8 @@ title: POWER RANKINGS WEEK 1
 | Actual Points | 141.86 |
 | Average Score | 141.86 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=14 -->
+<!-- END TEAM BLURB team_id=14 -->
 
 ---
 
@@ -45,7 +46,8 @@ Here will be where I write about the ranking
 | Actual Points | 139.56 |
 | Average Score | 139.56 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=1 -->
+<!-- END TEAM BLURB team_id=1 -->
 
 ---
 
@@ -66,7 +68,8 @@ Here will be where I write about the ranking
 | Actual Points | 126.86 |
 | Average Score | 126.86 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=13 -->
+<!-- END TEAM BLURB team_id=13 -->
 
 ---
 
@@ -87,7 +90,8 @@ Here will be where I write about the ranking
 | Actual Points | 113.04 |
 | Average Score | 113.04 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=9 -->
+<!-- END TEAM BLURB team_id=9 -->
 
 ---
 
@@ -108,7 +112,8 @@ Here will be where I write about the ranking
 | Actual Points | 109.86 |
 | Average Score | 109.86 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=5 -->
+<!-- END TEAM BLURB team_id=5 -->
 
 ---
 
@@ -129,7 +134,8 @@ Here will be where I write about the ranking
 | Actual Points | 101.62 |
 | Average Score | 101.62 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=2 -->
+<!-- END TEAM BLURB team_id=2 -->
 
 ---
 
@@ -150,7 +156,8 @@ Here will be where I write about the ranking
 | Actual Points | 135.80 |
 | Average Score | 135.80 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=3 -->
+<!-- END TEAM BLURB team_id=3 -->
 
 ---
 
@@ -171,7 +178,8 @@ Here will be where I write about the ranking
 | Actual Points | 132.82 |
 | Average Score | 132.82 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=6 -->
+<!-- END TEAM BLURB team_id=6 -->
 
 ---
 
@@ -192,7 +200,8 @@ Here will be where I write about the ranking
 | Actual Points | 121.16 |
 | Average Score | 121.16 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=12 -->
+<!-- END TEAM BLURB team_id=12 -->
 
 ---
 
@@ -213,7 +222,8 @@ Here will be where I write about the ranking
 | Actual Points | 100.16 |
 | Average Score | 100.16 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=8 -->
+<!-- END TEAM BLURB team_id=8 -->
 
 ---
 
@@ -234,7 +244,8 @@ Here will be where I write about the ranking
 | Actual Points | 91.50 |
 | Average Score | 91.50 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=4 -->
+<!-- END TEAM BLURB team_id=4 -->
 
 ---
 
@@ -255,7 +266,8 @@ Here will be where I write about the ranking
 | Actual Points | 73.62 |
 | Average Score | 73.62 |
 
-Here will be where I write about the ranking
+<!-- BEGIN TEAM BLURB team_id=15 -->
+<!-- END TEAM BLURB team_id=15 -->
 
 ---
 
