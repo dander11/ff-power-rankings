@@ -1,17 +1,16 @@
 ---
-layout: index
 tags:
   - power-rankings
 year: 2025
 week: 14
-title: POWER RANKINGS WEEK 14
+title: 2025 POWER RANKINGS WEEK 14
 ---
 
-## ![](http://media.nj.com/realtimesports_impact/photo/9233484-large.jpg) 1. Robb - Lombardi's  Lad's (10-4)
+## <span class="rank-badge">1</span> ![](http://media.nj.com/realtimesports_impact/photo/9233484-large.jpg)  <span class="team-title">Robb - Lombardi's  Lad's</span> <span class="team-record">(10-4)</span>
 
-**Week 14 result**: Beat Knights of the Night (Hunter) 101.44-100.52
+Beat Knights of the Night (Hunter) 101.44-100.52
 
-**Previous ranking**: 1 (–)
+Previous ranking: 1 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -30,13 +29,11 @@ title: POWER RANKINGS WEEK 14
 
 ---
 
-## ![](https://i.imgur.com/M0DwjA4.png) 
+## <span class="rank-badge">2</span> ![](https://i.imgur.com/M0DwjA4.png)  <span class="team-title">David - HoChi Winhers</span> <span class="team-record">(9-5)</span>
 
-## 2. David - HoChi Winhers (9-5)
+Beat The Bidet Bombardier (Brian) 135.12-106.22
 
-Beat the Bidet Bombardier (Brian) 135.12-106.22
-
-Previous ranking: 4 (**▲2**{style="color:green"})
+Previous ranking: 4 (<span class="rank-change rank-change--up">▲2</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -55,11 +52,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg) 3. Brian - The Bidet Bombardier (9-5)
+## <span class="rank-badge">3</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg)  <span class="team-title">Brian - The Bidet Bombardier</span> <span class="team-record">(9-5)</span>
 
-**Week 14 result**: Lost to HoChi Winhers (David) 106.22-135.12
+Lost to HoChi Winhers (David) 106.22-135.12
 
-**Previous ranking**: 2 (**▼1**{style="color:red"})
+Previous ranking: 2 (<span class="rank-change rank-change--down">▼1</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -78,11 +75,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/herbert-01.svg) 4. Matthew - BUZZ SAW COMING FOR YOU (8-6)
+## <span class="rank-badge">4</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/herbert-01.svg)  <span class="team-title">Matthew - BUZZ SAW COMING FOR YOU</span> <span class="team-record">(8-6)</span>
 
-**Week 14 result**: Lost to Deport SEC Fans (Alan) 52.00-135.42
+Lost to Deport SEC Fans (Alan) 52.00-135.42
 
-**Previous ranking**: 3 (**▼1**{style="color:red"})
+Previous ranking: 3 (<span class="rank-change rank-change--down">▼1</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -101,11 +98,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg) 5. joe - Wash youre pitts and penix (8-6)
+## <span class="rank-badge">5</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg)  <span class="team-title">joe - Wash youre pitts and penix</span> <span class="team-record">(8-6)</span>
 
-**Week 14 result**: Beat Mike Vick Walks my Dog (Peck) 108.66-86.02
+Beat Mike Vick Walks my Dog (Peck) 108.66-86.02
 
-**Previous ranking**: 5 (–)
+Previous ranking: 5 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -124,11 +121,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) 6. Nathan - Less Intelligent Underwood (6-8)
+## <span class="rank-badge">6</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Nathan - Less Intelligent Underwood</span> <span class="team-record">(6-8)</span>
 
-**Week 14 result**: Beat Your Reigning Champ (Christian) 121.04-105.06
+Beat Your Reigning Champ (Christian) 121.04-105.06
 
-**Previous ranking**: 6 (–)
+Previous ranking: 6 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -147,11 +144,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg) 7. Alan - Deport SEC Fans (6-8)
+## <span class="rank-badge rank-badge--red">7</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg)  <span class="team-title">Alan - Deport SEC Fans</span> <span class="team-record">(6-8)</span>
 
-**Week 14 result**: Beat BUZZ SAW COMING FOR YOU (Matthew) 135.42-52.00
+Beat BUZZ SAW COMING FOR YOU (Matthew) 135.42-52.00
 
-**Previous ranking**: 8 (**▲1**{style="color:green"})
+Previous ranking: 8 (<span class="rank-change rank-change--up">▲1</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -170,11 +167,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg) 8. Zach - I'm Love'n Ja'Matt Chase 5ks (7-7)
+## <span class="rank-badge rank-badge--red">8</span> ![](https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg)  <span class="team-title">Zach - I'm Love'n Ja'Matt Chase 5ks</span> <span class="team-record">(7-7)</span>
 
-**Week 14 result**: Beat 5K Runner (Steven) 135.38-123.16
+Beat 5K Runner (Steven) 135.38-123.16
 
-**Previous ranking**: 7 (**▼1**{style="color:red"})
+Previous ranking: 7 (<span class="rank-change rank-change--down">▼1</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -193,11 +190,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) 9. Steven - 5K Runner (6-8)
+## <span class="rank-badge rank-badge--red">9</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Steven - 5K Runner</span> <span class="team-record">(6-8)</span>
 
-**Week 14 result**: Lost to I'm Love'n Ja'Matt Chase 5ks (Zach) 123.16-135.38
+Lost to I'm Love'n Ja'Matt Chase 5ks (Zach) 123.16-135.38
 
-**Previous ranking**: 9 (–)
+Previous ranking: 9 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -216,11 +213,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg) 10. Peck - Mike Vick Walks my Dog (5-9)
+## <span class="rank-badge rank-badge--red">10</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg)  <span class="team-title">Peck - Mike Vick Walks my Dog</span> <span class="team-record">(5-9)</span>
 
-**Week 14 result**: Lost to Wash youre pitts and penix (joe) 86.02-108.66
+Lost to Wash youre pitts and penix (joe) 86.02-108.66
 
-**Previous ranking**: 10 (–)
+Previous ranking: 10 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -239,11 +236,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://pbs.twimg.com/profile_images/1479725919992483843/Fqtc9uHu_400x400.jpg) 11. Hunter - Knights of the Night (6-8)
+## <span class="rank-badge rank-badge--red">11</span> ![](https://pbs.twimg.com/profile_images/1479725919992483843/Fqtc9uHu_400x400.jpg)  <span class="team-title">Hunter - Knights of the Night</span> <span class="team-record">(6-8)</span>
 
-**Week 14 result**: Lost to Lombardi's  Lad's (Robb) 100.52-101.44
+Lost to Lombardi's  Lad's (Robb) 100.52-101.44
 
-**Previous ranking**: 11 (–)
+Previous ranking: 11 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -262,11 +259,11 @@ Previous ranking: 4 (**▲2**{style="color:green"})
 
 ---
 
-## ![](https://i.imgur.com/BJmS79a.jpg) 12. Christian - Your Reigning Champ (4-10)
+## <span class="rank-badge rank-badge--red">12</span> ![](https://i.imgur.com/BJmS79a.jpg)  <span class="team-title">Christian - Your Reigning Champ</span> <span class="team-record">(4-10)</span>
 
-**Week 14 result**: Lost to Less Intelligent Underwood (Nathan) 105.06-121.04
+Lost to Less Intelligent Underwood (Nathan) 105.06-121.04
 
-**Previous ranking**: 12 (–)
+Previous ranking: 12 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |

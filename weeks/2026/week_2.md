@@ -1,17 +1,16 @@
 ---
-layout: index
 tags:
   - power-rankings
 year: 2026
 week: 2
-title: POWER RANKINGS WEEK 2
+title: 2026 POWER RANKINGS WEEK 2
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) 1. Steven - 5K Runner (2-0)
+## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Steven - 5K Runner</span> <span class="team-record">(2-0)</span>
 
 Beat Deport SEC Fans (Alan) 151.68-88.18
 
-Previous ranking: 4 (**▲3**{style="color:green"})
+Previous ranking: 4 (<span class="rank-change rank-change--up">▲3</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -31,11 +30,11 @@ Steve continued his dominate run over the rest of the league this week by crushi
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/herbert-01.svg) 2. Matthew - BUZZ SAW COMING FOR YOU (2-0)
+## <span class="rank-badge">2</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/herbert-01.svg)  <span class="team-title">Matthew - BUZZ SAW COMING FOR YOU</span> <span class="team-record">(2-0)</span>
 
 Beat Mike Vick Walks my Dog (Peck) 140.42-115.98
 
-Previous ranking: 6 (**▲4**{style="color:green"})
+Previous ranking: 6 (<span class="rank-change rank-change--up">▲4</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -55,11 +54,11 @@ Speaking of teams who got carried by a single player... Matt was destined to los
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/jones-01.svg) 3. Robb - Lombardi's  Lad's (2-0)
+## <span class="rank-badge">3</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/jones-01.svg)  <span class="team-title">Robb - Lombardi's  Lad's</span> <span class="team-record">(2-0)</span>
 
 Beat HoChi Winhers (David) 89.32-81.50
 
-Previous ranking: 3 (–)
+Previous ranking: 3 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -79,11 +78,11 @@ Ok ok ok. Rob beat me this week and got the bragging rights from our little spat
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) 4. Nathan - Less Intelligent Underwood (1-1)
+## <span class="rank-badge">4</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Nathan - Less Intelligent Underwood</span> <span class="team-record">(1-1)</span>
 
 Beat I'm Love'n Ja'Matt Chase 5ks (Zach) 132.26-94.24
 
-Previous ranking: 8 (**▲4**{style="color:green"})
+Previous ranking: 8 (<span class="rank-change rank-change--up">▲4</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -103,11 +102,11 @@ Now here's a guy who is truly unlucky. Nathan has the highest hypothetical win p
 
 ---
 
-## ![](https://i.imgur.com/BJmS79a.jpg) 5. Christian - GT sux (2-0)
+## <span class="rank-badge">5</span> ![](https://i.imgur.com/BJmS79a.jpg)  <span class="team-title">Christian - GT sux</span> <span class="team-record">(2-0)</span>
 
 Beat Knights of the Night (Hunter) 81.92-74.68
 
-Previous ranking: 5 (–)
+Previous ranking: 5 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -127,11 +126,11 @@ Christian is the opposite of his brother in most ways and that continues in his 
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg) 6. Brian - The Bidet Bombardier (1-1)
+## <span class="rank-badge">6</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg)  <span class="team-title">Brian - The Bidet Bombardier</span> <span class="team-record">(1-1)</span>
 
 Beat I'm so JamesCooked (joe) 156.28-109.02
 
-Previous ranking: 11 (**▲5**{style="color:green"})
+Previous ranking: 11 (<span class="rank-change rank-change--up">▲5</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -151,11 +150,11 @@ Speaking of the toilet boy he finally flushed the bad juju out of his system thi
 
 ---
 
-## ![](https://i.imgur.com/M0DwjA4.png) 7. David - HoChi Winhers (1-1)
+## <span class="rank-badge rank-badge--red">7</span> ![](https://i.imgur.com/M0DwjA4.png)  <span class="team-title">David - HoChi Winhers</span> <span class="team-record">(1-1)</span>
 
 Lost to Lombardi's  Lad's (Robb) 81.50-89.32
 
-Previous ranking: 2 (**▼5**{style="color:red"})
+Previous ranking: 2 (<span class="rank-change rank-change--down">▼5</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -175,11 +174,11 @@ I am the middle. I am the most average player in our league. I will never escape
 
 ---
 
-## ![](https://pbs.twimg.com/profile_images/1479725919992483843/Fqtc9uHu_400x400.jpg) 8. Hunter - Knights of the Night (1-1)
+## <span class="rank-badge rank-badge--red">8</span> ![](https://pbs.twimg.com/profile_images/1479725919992483843/Fqtc9uHu_400x400.jpg)  <span class="team-title">Hunter - Knights of the Night</span> <span class="team-record">(1-1)</span>
 
 Lost to GT sux (Christian) 74.68-81.92
 
-Previous ranking: 1 (**▼7**{style="color:red"})
+Previous ranking: 1 (<span class="rank-change rank-change--down">▼7</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -199,11 +198,11 @@ Hunter is right next to me in the so average it hurts category. He had one good 
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg) 9. Peck - Mike Vick Walks my Dog (0-2)
+## <span class="rank-badge rank-badge--red">9</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg)  <span class="team-title">Peck - Mike Vick Walks my Dog</span> <span class="team-record">(0-2)</span>
 
 Lost to BUZZ SAW COMING FOR YOU (Matthew) 115.98-140.42
 
-Previous ranking: 9 (–)
+Previous ranking: 9 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -225,11 +224,11 @@ OUCH!!!
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg) 10. Alan - Deport SEC Fans (0-2)
+## <span class="rank-badge rank-badge--red">10</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg)  <span class="team-title">Alan - Deport SEC Fans</span> <span class="team-record">(0-2)</span>
 
 Lost to 5K Runner (Steven) 88.18-151.68
 
-Previous ranking: 7 (**▼3**{style="color:red"})
+Previous ranking: 7 (<span class="rank-change rank-change--down">▼3</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -249,11 +248,11 @@ Alan actually hasn't been awful this season and it's more just that he's played 
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg) 11. Zach - I'm Love'n Ja'Matt Chase 5ks (0-2)
+## <span class="rank-badge rank-badge--red">11</span> ![](https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg)  <span class="team-title">Zach - I'm Love'n Ja'Matt Chase 5ks</span> <span class="team-record">(0-2)</span>
 
 Lost to Less Intelligent Underwood (Nathan) 94.24-132.26
 
-Previous ranking: 10 (**▼1**{style="color:red"})
+Previous ranking: 10 (<span class="rank-change rank-change--down">▼1</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
@@ -275,11 +274,11 @@ The Waiver Wire king returns! Zach has strategically lost two times in a row to 
 
 ---
 
-## ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg) 12. joe - I'm so JamesCooked (0-2)
+## <span class="rank-badge rank-badge--red">12</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg)  <span class="team-title">joe - I'm so JamesCooked</span> <span class="team-record">(0-2)</span>
 
 Lost to The Bidet Bombardier (Brian) 109.02-156.28
 
-Previous ranking: 12 (–)
+Previous ranking: 12 (<span class="rank-change rank-change--none">–</span>)
 {% expander "Advanced Stats" %}
 | Stat | Value |
 | --- | --- |
