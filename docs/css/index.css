@@ -298,8 +298,8 @@ main > h2 + .match-result + p {
 .rank-change {
   display: inline-flex;
   box-sizing: border-box;
-  width: 2rem;
-  height: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
   align-items: center;
   justify-content: center;
   margin-left: 0.25rem;
@@ -307,7 +307,7 @@ main > h2 + .match-result + p {
   border-radius: 50%;
   background: var(--header-background-color);
   color: var(--header-text-color);
-  font-size: 0.75rem;
+  font-size: 1rem;
   font-weight: 700;
   line-height: 1;
   white-space: nowrap;
