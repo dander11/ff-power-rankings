@@ -52,7 +52,7 @@ Speaking of teams who got carried by a single player... Matt was destined to los
 
 ---
 
-## <span class="rank-badge">3</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/jones-01.svg)  <span class="team-title">Robb - Lombardi's  Lad's <span class="rank-change rank-change--none">–</span></span> <span class="team-record">(2-0)</span>
+## <span class="rank-badge">3</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/jones-01.svg)  <span class="team-title">Robb - Lombardi's  Lad's </span> <span class="team-record">(2-0)</span>
 
 <p class="match-result match-result--win">Beat HoChi Winhers (David) 89.32-81.50</p>
 
@@ -98,7 +98,7 @@ Now here's a guy who is truly unlucky. Nathan has the highest hypothetical win p
 
 ---
 
-## <span class="rank-badge">5</span> ![](https://i.imgur.com/BJmS79a.jpg)  <span class="team-title">Christian - GT sux <span class="rank-change rank-change--none">–</span></span> <span class="team-record">(2-0)</span>
+## <span class="rank-badge">5</span> ![](https://i.imgur.com/BJmS79a.jpg)  <span class="team-title">Christian - GT sux </span> <span class="team-record">(2-0)</span>
 
 <p class="match-result match-result--win">Beat Knights of the Night (Hunter) 81.92-74.68</p>
 
@@ -190,7 +190,7 @@ Hunter is right next to me in the so average it hurts category. He had one good 
 
 ---
 
-## <span class="rank-badge rank-badge--red">9</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg)  <span class="team-title">Peck - Mike Vick Walks my Dog <span class="rank-change rank-change--none">–</span></span> <span class="team-record">(0-2)</span>
+## <span class="rank-badge rank-badge--red">9</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg)  <span class="team-title">Peck - Mike Vick Walks my Dog </span> <span class="team-record">(0-2)</span>
 
 <p class="match-result match-result--loss">Lost to BUZZ SAW COMING FOR YOU (Matthew) 115.98-140.42</p>
 
@@ -263,7 +263,7 @@ The Waiver Wire king returns! Zach has strategically lost two times in a row to 
 
 ---
 
-## <span class="rank-badge rank-badge--red">12</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg)  <span class="team-title">joe - I'm so JamesCooked <span class="rank-change rank-change--none">–</span></span> <span class="team-record">(0-2)</span>
+## <span class="rank-badge rank-badge--red">12</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg)  <span class="team-title">joe - I'm so JamesCooked </span> <span class="team-record">(0-2)</span>
 
 <p class="match-result match-result--loss">Lost to The Bidet Bombardier (Brian) 109.02-156.28</p>
 

@@ -6,7 +6,7 @@ week: 3
 title: 2026 POWER RANKINGS WEEK 3
 ---
 
-## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Steven - 5K Runner <span class="rank-change rank-change--none">–</span></span> <span class="team-record">(3-0)</span>
+## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Steven - 5K Runner </span> <span class="team-record">(3-0)</span>
 
 <p class="match-result match-result--win">Beat Knights of the Night (Hunter) 119.46-82.24</p>
 
@@ -121,7 +121,7 @@ I underperformed by 9 points and still beat Matt by 30. It wasn't close but that
 
 ---
 
-## <span class="rank-badge">6</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg)  <span class="team-title">Brian - The Bidet Bombardier <span class="rank-change rank-change--none">–</span></span> <span class="team-record">(1-2)</span>
+## <span class="rank-badge">6</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg)  <span class="team-title">Brian - The Bidet Bombardier </span> <span class="team-record">(1-2)</span>
 
 <p class="match-result match-result--loss">Lost to GT sux (Christian) 122.60-127.24</p>
 
