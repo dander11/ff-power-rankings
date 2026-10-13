@@ -3,10 +3,12 @@ tags:
   - power-rankings
 year: 2026
 week: 3
-title: 2026 POWER RANKINGS WEEK 3
+title: week_3
+auto_date_created: 2026-10-06T10:08:33-04:00
+auto_date_modified: 2026-10-08T11:53:21-04:00
 ---
 
-## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Steven - 5K Runner </span> <span class="team-record">(3-0)</span>
+## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) <span class="team-title">Steven - 5K Runner </span> <span class="team-record">(3-0)</span>
 
 <p class="match-result match-result--win">Beat Knights of the Night (Hunter) 119.46-82.24</p>
 
@@ -29,7 +31,7 @@ Steve continues dominate his head-to-heads for the season so he stays on top thi
 
 ---
 
-## <span class="rank-badge">2</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg)  <span class="team-title">Nathan - Less Intelligent Underwood <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(2-1)</span>
+## <span class="rank-badge">2</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) <span class="team-title">Nathan - Less Intelligent Underwood <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(2-1)</span>
 
 <p class="match-result match-result--win">Beat Lombardi's  Lad's (Robb) 139.98-89.56</p>
 
@@ -52,7 +54,7 @@ Nathan notched another win and keeps his streak of scoring in the 130s alive. He
 
 ---
 
-## <span class="rank-badge">3</span> ![](https://i.imgur.com/BJmS79a.jpg)  <span class="team-title">Christian - GT sux <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(3-0)</span>
+## <span class="rank-badge">3</span> ![](https://i.imgur.com/BJmS79a.jpg) <span class="team-title">Christian - GT Sux <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(3-0)</span>
 
 <p class="match-result match-result--win">Beat The Bidet Bombardier (Brian) 127.24-122.60</p>
 
@@ -75,7 +77,7 @@ Christian had a close call with toilet boy this week barely beating Brian on the
 
 ---
 
-## <span class="rank-badge">4</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg)  <span class="team-title">Peck - Mike Vick Walks my Dog <span class="rank-change rank-change--up">▲5</span></span> <span class="team-record">(1-2)</span>
+## <span class="rank-badge">4</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg) <span class="team-title">Peck - Mike Vick Walks My Dog <span class="rank-change rank-change--up">▲5</span></span> <span class="team-record">(1-2)</span>
 
 <p class="match-result match-result--win">Beat I'm Love'n Ja'Matt Chase 5ks (Zach) 163.78-98.70</p>
 
@@ -98,7 +100,7 @@ Peck got his first win of the season and immediately rocketed up the rankings be
 
 ---
 
-## <span class="rank-badge">5</span> ![](https://i.imgur.com/M0DwjA4.png)  <span class="team-title">David - HoChi Winhers <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(2-1)</span>
+## <span class="rank-badge">5</span> ![](https://i.imgur.com/M0DwjA4.png) <span class="team-title">David - HoChi Winhers <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(2-1)</span>
 
 <p class="match-result match-result--win">Beat BUZZ SAW COMING FOR YOU (Matthew) 111.84-78.86</p>
 
@@ -121,7 +123,7 @@ I underperformed by 9 points and still beat Matt by 30. It wasn't close but that
 
 ---
 
-## <span class="rank-badge">6</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg)  <span class="team-title">Brian - The Bidet Bombardier </span> <span class="team-record">(1-2)</span>
+## <span class="rank-badge">6</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_03.svg) <span class="team-title">Brian - The Bidet Bombardier </span> <span class="team-record">(1-2)</span>
 
 <p class="match-result match-result--loss">Lost to GT sux (Christian) 122.60-127.24</p>
 
@@ -144,7 +146,7 @@ Brian lost again this week but he was right on his average points per week and h
 
 ---
 
-## <span class="rank-badge rank-badge--red">7</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/herbert-01.svg)  <span class="team-title">Matthew - BUZZ SAW COMING FOR YOU <span class="rank-change rank-change--down">▼5</span></span> <span class="team-record">(2-1)</span>
+## <span class="rank-badge rank-badge--red">7</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/herbert-01.svg) <span class="team-title">Matthew - BUZZ SAW COMING FOR YOU <span class="rank-change rank-change--down">▼5</span></span> <span class="team-record">(2-1)</span>
 
 <p class="match-result match-result--loss">Lost to HoChi Winhers (David) 78.86-111.84</p>
 
@@ -167,7 +169,7 @@ Matt got handed his first loss of the season and plummeted down the rankings. He
 
 ---
 
-## <span class="rank-badge rank-badge--red">8</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/jones-01.svg)  <span class="team-title">Robb - Lombardi's  Lad's <span class="rank-change rank-change--down">▼5</span></span> <span class="team-record">(2-1)</span>
+## <span class="rank-badge rank-badge--red">8</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/jones-01.svg) <span class="team-title">Robb - Lombardi's Lad's <span class="rank-change rank-change--down">▼5</span></span> <span class="team-record">(2-1)</span>
 
 <p class="match-result match-result--loss">Lost to Less Intelligent Underwood (Nathan) 89.56-139.98</p>
 
@@ -190,7 +192,7 @@ Rob is another regression candidate this week after his first head to head loss 
 
 ---
 
-## <span class="rank-badge rank-badge--red">9</span> ![](https://pbs.twimg.com/profile_images/1479725919992483843/Fqtc9uHu_400x400.jpg)  <span class="team-title">Hunter - Knights of the Night <span class="rank-change rank-change--down">▼1</span></span> <span class="team-record">(1-2)</span>
+## <span class="rank-badge rank-badge--red">9</span> ![](https://pbs.twimg.com/profile_images/1479725919992483843/Fqtc9uHu_400x400.jpg) <span class="team-title">Hunter - Knights of the Night <span class="rank-change rank-change--down">▼1</span></span> <span class="team-record">(1-2)</span>
 
 <p class="match-result match-result--loss">Lost to 5K Runner (Steven) 82.24-119.46</p>
 
@@ -213,7 +215,7 @@ Hunter losing to Steve isn't that embarrassing, only scoring 82 points and conti
 
 ---
 
-## <span class="rank-badge rank-badge--red">10</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg)  <span class="team-title">joe - I'm so JamesCooked <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(1-2)</span>
+## <span class="rank-badge rank-badge--red">10</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_07.svg) <span class="team-title">joe - I'm so JamesCooked <span class="rank-change rank-change--up">▲2</span></span> <span class="team-record">(1-2)</span>
 
 <p class="match-result match-result--win">Beat Deport SEC Fans (Alan) 106.02-103.04</p>
 
@@ -243,7 +245,7 @@ Joe escaped the bottom with a big upset over Alan this week. They are both near 
 
 ---
 
-## <span class="rank-badge rank-badge--red">11</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg)  <span class="team-title">Alan - Deport SEC Fans <span class="rank-change rank-change--down">▼1</span></span> <span class="team-record">(0-3)</span>
+## <span class="rank-badge rank-badge--red">11</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_13.svg) <span class="team-title">Alan - Deport SEC Fans <span class="rank-change rank-change--down">▼1</span></span> <span class="team-record">(0-3)</span>
 
 <p class="match-result match-result--loss">Lost to I'm so JamesCooked (joe) 103.04-106.02</p>
 
@@ -268,7 +270,7 @@ Oh, there it is.
 
 ---
 
-## <span class="rank-badge rank-badge--red">12</span> ![](https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg)  <span class="team-title">Zach - I'm Love'n Ja'Matt Chase 5ks <span class="rank-change rank-change--down">▼1</span></span> <span class="team-record">(0-3)</span>
+## <span class="rank-badge rank-badge--red">12</span> ![](https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg) <span class="team-title">Zach - I'm Love'n Ja'Matt Chase 5ks <span class="rank-change rank-change--down">▼1</span></span> <span class="team-record">(0-3)</span>
 
 <p class="match-result match-result--loss">Lost to Mike Vick Walks my Dog (Peck) 98.70-163.78</p>
 
