@@ -3,9 +3,9 @@ tags:
   - power-rankings
 year: 2026
 week: 5
-title: POWER RANKINGS WEEK 5
+title: week_5
 auto_date_created: 2026-10-13T10:27:07-04:00
-auto_date_modified: 2026-10-13T11:41:19-04:00
+auto_date_modified: 2026-10-13T11:46:17-04:00
 ---
 
 ## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) <span class="team-title">Steven - 5K Runner </span> <span class="team-record">(5-0)</span>
@@ -281,36 +281,36 @@ The Waiver Wire King won by losing this week (a familiar feeling for him) after 
 <!-- BEGIN TEAM BLURB team_id=2 -->
 Here are the lowest record against the league this through week 5 in the 2020s. Matt's team is really bad this season but he's been here before. 
 
-|year|team_name|owner|all_play_win_pct|
-|---|---|---|---|
-|2020|Champion #1||0.127|
-|2022|My Pronouns NOT/LAST|Joseph Anderson|0.182|
-|2020|Draft Day GENIUS|Matthew Anderson|0.2|
-|2026|BUZZ SAW COMING FOR YOU|Matthew Anderson|0.255|
-|2022|Mike Vick Walks my Dog|Peck Mallory|0.273|
+| Year | Team Name               | Owner            | Win % |
+| ---- | ----------------------- | ---------------- | ----- |
+| 2020 | Champion #1             |                  | 0.127 |
+| 2022 | My Pronouns NOT/LAST    | Joseph Anderson  | 0.182 |
+| 2020 | Draft Day GENIUS        | Matthew Anderson | 0.2   |
+| 2026 | BUZZ SAW COMING FOR YOU | Matthew Anderson | 0.255 |
+| 2022 | Mike Vick Walks my Dog  | Peck Mallory     | 0.273 |
 
 
 As a matter of fact, lets look at all of Matt's records at this point in the season and see where this season lines up for him. Bolded rows are when he's been below .500 at this point in the season. 
 
-| year     | week  | team_name                      | owner                | power_rank | all_play_win_pct |
-| -------- | ----- | ------------------------------ | -------------------- | ---------- | ---------------- |
-| **2010** | **5** | **Chan Gailey's Magic 8 ball** | **Matthew Anderson** | **9**      | **0.422**        |
-| **2011** | **5** | **Chan Gailey's Magic 8 ball** | **Matthew Anderson** | **7**      | **0.467**        |
-| 2012     | 5     | Alan Stole Tom Brady           | Matthew Anderson     | 1          | 0.818            |
-| **2013** | **5** | **Alan Stole Tom Brady**       | **Matthew Anderson** | **9**      | **0.418**        |
-| **2014** | **5** | **Gonna Win This Week**        | **Matthew Anderson** | **11**     | **0.273**        |
-| 2015     | 5     | Humble Havoc Wreaker           | Matthew Anderson     | 1          | 0.673            |
-| **2016** | **5** | **Humble Havoc Wreaker**       | **Matthew Anderson** | **12**     | **0.218**        |
-| 2017     | 5     | FntasyFtbll Is RIGGED          | Matthew Anderson     | 3          | 0.673            |
-| **2018** | **5** | **FntasyFtbll Is RIGGED**      | **Matthew Anderson** | **11**     | **0.145**        |
-| 2019     | 5     | Draft Day GENIUS               | Matthew Anderson     | 8          | 0.509            |
-| **2020** | **5** | **Draft Day GENIUS**           | **Matthew Anderson** | **10**     | **0.2**          |
-| **2021** | **5** | **Draft Day GENIUS**           | **Matthew Anderson** | **12**     | **0.4**          |
-| **2022** | **5** | **Draft Day GENIUS**           | **Matthew Anderson** | **10**     | **0.364**        |
-| **2023** | **5** | **Jurassic Park Lawyer**       | **Matthew Anderson** | **9**      | **0.364**        |
-| **2024** | **5** | **Jurassic Park Lawyer**       | **Matthew Anderson** | **8**      | **0.345**        |
-| 2025     | 5     | BUZZ SAW COMING FOR YOU        | Matthew Anderson     | 7          | 0.509            |
-| **2026** | **5** | **BUZZ SAW COMING FOR YOU**    | **Matthew Anderson** | **12**     | **0.255**        |
+| Year     | Week  | Team Name                      | Owner                | Power Rank | Win %     |
+| -------- | ----- | ------------------------------ | -------------------- | ---------- | --------- |
+| **2010** | **5** | **Chan Gailey's Magic 8 ball** | **Matthew Anderson** | **9**      | **0.422** |
+| **2011** | **5** | **Chan Gailey's Magic 8 ball** | **Matthew Anderson** | **7**      | **0.467** |
+| 2012     | 5     | Alan Stole Tom Brady           | Matthew Anderson     | 1          | 0.818     |
+| **2013** | **5** | **Alan Stole Tom Brady**       | **Matthew Anderson** | **9**      | **0.418** |
+| **2014** | **5** | **Gonna Win This Week**        | **Matthew Anderson** | **11**     | **0.273** |
+| 2015     | 5     | Humble Havoc Wreaker           | Matthew Anderson     | 1          | 0.673     |
+| **2016** | **5** | **Humble Havoc Wreaker**       | **Matthew Anderson** | **12**     | **0.218** |
+| 2017     | 5     | FntasyFtbll Is RIGGED          | Matthew Anderson     | 3          | 0.673     |
+| **2018** | **5** | **FntasyFtbll Is RIGGED**      | **Matthew Anderson** | **11**     | **0.145** |
+| 2019     | 5     | Draft Day GENIUS               | Matthew Anderson     | 8          | 0.509     |
+| **2020** | **5** | **Draft Day GENIUS**           | **Matthew Anderson** | **10**     | **0.2**   |
+| **2021** | **5** | **Draft Day GENIUS**           | **Matthew Anderson** | **12**     | **0.4**   |
+| **2022** | **5** | **Draft Day GENIUS**           | **Matthew Anderson** | **10**     | **0.364** |
+| **2023** | **5** | **Jurassic Park Lawyer**       | **Matthew Anderson** | **9**      | **0.364** |
+| **2024** | **5** | **Jurassic Park Lawyer**       | **Matthew Anderson** | **8**      | **0.345** |
+| 2025     | 5     | BUZZ SAW COMING FOR YOU        | Matthew Anderson     | 7          | 0.509     |
+| **2026** | **5** | **BUZZ SAW COMING FOR YOU**    | **Matthew Anderson** | **12**     | **0.255** |
 
 His average over the last 16 years is 0.41 so he's comfortable with the bottom of the table but even by those standard this is rough for him, it's the 4th worst he's ever been at this point in the season.
 <!-- END TEAM BLURB team_id=2 -->
