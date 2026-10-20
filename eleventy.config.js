@@ -20,7 +20,7 @@ export default function (eleventyConfig) {
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif,mp4}");
 	const md = new MarkdownIt(
-		{html: true}
+		{ html: true }
 	)
 	md.use(markdownItAttrs);
 	eleventyConfig.setLibrary('md', md);
@@ -36,7 +36,10 @@ export default function (eleventyConfig) {
 		//make the image widths 72px
 		{
 			widths: [60],
-			failOnError: false
+			failOnError: false,
+			sharpOptions: {
+				animated: true
+			}
 		});
 	eleventyConfig.setOutputDirectory("docs")
 
