@@ -3,7 +3,7 @@ tags:
   - power-rankings
 year: 2026
 week: 6
-title: week_6
+title: POWER RANKINGS WEEK 6
 auto_date_created: 2026-10-20T09:43:52-04:00
 auto_date_modified: 2026-10-20T11:30:09-04:00
 ---
