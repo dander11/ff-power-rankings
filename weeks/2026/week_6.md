@@ -3,9 +3,9 @@ tags:
   - power-rankings
 year: 2026
 week: 6
-title: POWER RANKINGS WEEK 6
+title: week_6
 auto_date_created: 2026-10-20T09:43:52-04:00
-auto_date_modified: 2026-10-20T11:30:09-04:00
+auto_date_modified: 2026-10-20T11:36:13-04:00
 ---
 
 ## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg) <span class="team-title">Steven - 5K Runner </span> <span class="team-record">(6-0)</span>
