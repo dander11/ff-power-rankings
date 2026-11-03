@@ -6,7 +6,6 @@ week: 8
 title: WEEK 8 POWER RANKINGS
 auto_date_created: 2026-11-03T14:31:26-05:00
 auto_date_modified: 2026-11-03T16:56:34-05:00
-linter-yaml-title-alias: HERE ARE THE LIKELY RUNNERS
 ---
 
 ## <span class="rank-badge">1</span> ![](https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_09.svg) <span class="team-title">Peck - Mike Vick Walks My Dog </span> <span class="team-record">(5-3)</span>
